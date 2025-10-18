@@ -66,7 +66,7 @@ By combining my **operations background** with **data storytelling**, I aim to h
 Sr. Specialist – Operations Support (Concentrix) | Data Analyst  
 Passionate about transforming operational data into actionable insights and strategic outcomes.  
 
-📧 **ahmedbahaa@example.com**  
+📧 **ahmed.bahaa.ahmed@protonmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-bahaa-14a50a203/) | [GitHub](https://github.com/AhmedBahaa-Data) | [E-mail](mailto:ahmed.bahaa.ahmed@protonmail.com)
 
 ---
