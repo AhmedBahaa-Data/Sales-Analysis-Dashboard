@@ -13,7 +13,9 @@ This project analyzes sales performance for a retail dataset, including:
 ---
 
 📊 **Dashboard Preview:**  
-*(Add screenshot later)*  
+
+  <img width="1423" height="796" alt="image" src="https://github.com/user-attachments/assets/bd11ef30-2d75-45e5-98f0-78f0369d7d63" />
+
 
 📫 **Contact:**  
 [LinkedIn](https://linkedin.com/in/yourusername) | [Email](mailto:ahmed.bahaa.ahmed@protonmail.com)
